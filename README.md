@@ -1,4 +1,4 @@
-## Olá eu sou Jhonatan, criador de conteúdo de programação e tecnologia!
+## Olá sou Jhonatan, criador de conteúdo de programação e tecnologia!
 <div align="center">
   <a href="https://github.com/jhomsacra">
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=jhomsacra&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
